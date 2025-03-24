@@ -1,1 +1,1 @@
-just static shopping website
+static shopping website
